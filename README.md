@@ -1,4 +1,4 @@
-# [Data Structures](https://en.wikipedia.org/wiki/Data_structure) in C++
+# [Data Structures](https://en.wikipedia.org/wiki/Data_structure) in [C++](https://www.reddit.com/r/Cplusplus/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/datastructures/) 
 
 <p align="center">
