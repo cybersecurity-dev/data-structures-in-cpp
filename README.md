@@ -9,3 +9,12 @@
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
+
+
+
+
+
+
+| Data Structure | C++ Implementation |
+|----|:----:|
+|[Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))|[source](#)|
